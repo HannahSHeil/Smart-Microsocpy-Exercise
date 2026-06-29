@@ -50,10 +50,8 @@ The dataset includes:
 - DIC (overview channel)
 - Bacteria (Yersinia Pseudotuberculosis WT - GFP)
 - Actin (Syp650-fastAct_X)
-- Nucleus (Hoechst)
 
-Images are stored in the `/data` folder and are loaded automatically in the notebook.
-See dataset details in [`data/README.md`](data/README.md)
+Data is available on Zenodlo: [10.5281/zenodo.21039153](https://zenodo.org/records/21039154)
 
 ---
 
@@ -75,9 +73,10 @@ Key tools used:
 
 Smart microscopy focuses imaging effort on the **most informative regions or cells**, improving:
 
-- efficiency  
-- data quality  
-- biological insight  
+- time efficiency  
+- light exposure
+- information density
+
 
 ---
 
