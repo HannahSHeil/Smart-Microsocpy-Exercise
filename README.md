@@ -25,7 +25,7 @@ By completing this exercise, you will:
 The notebook simulates a smart microscopy experiment:
 
 1. **Overview acquisition** (10×, multi-channel)
-2. **Cell segmentation** using CellSAM  
+2. **Cell segmentation** using Cellpose  
 3. **Bacteria detection** (GFP channel)  
 4. **Decision rule** to identify infected cells  
 5. **Targeted acquisition** of selected cells  
