@@ -24,11 +24,11 @@ By completing this exercise, you will:
 
 The notebook simulates a smart microscopy experiment:
 
-1. **Overview acquisition** (10×, multi-channel)
+1. **Overview acquisition** (5×, multi-channel)
 2. **Cell segmentation** using Cellpose  
 3. **Bacteria detection** (GFP channel)  
 4. **Decision rule** to identify infected cells  
-5. **Targeted acquisition** of selected cells  
+5. **Targeted acquisition** of selected cells (20x, multi-channel)
 6. **Efficiency comparison** (full vs smart acquisition)
 
 👉 This mimics a real smart microscopy pipeline used in modern imaging systems.
@@ -51,7 +51,7 @@ The dataset includes:
 - Bacteria (Yersinia Pseudotuberculosis WT - GFP)
 - Actin (Syp650-fastAct_X)
 
-Data is available on Zenodo: [10.5281/zenodo.21064217](https://zenodo.org/records/21064217)
+Data is available on Zenodo: [10.5281/zenodo.21099152](https://zenodo.org/records/21099152)
 
 ---
 
